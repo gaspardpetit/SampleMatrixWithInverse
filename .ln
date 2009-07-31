@@ -1,0 +1,11 @@
+Makefile=$CMAKEFILE
+
+Geometry/Matrix.h=/Generic/Geometry/Matrix.h
+Geometry/LUDecomposition.h=/Generic/Geometry/LUDecomposition.h
+Geometry/LUMatrixDeterminant.h=/Generic/Geometry/LUMatrixDeterminant.h
+Geometry/LUMatrixInverse.h=/Generic/Geometry/LUMatrixInverse.h
+
+Geometry/src/Matrix.inline.h=/Generic/Geometry/src/Matrix.inline.h
+Geometry/src/LUDecomposition.inline.h=/Generic/Geometry/src/LUDecomposition.inline.h
+Geometry/src/LUMatrixDeterminant.inline.h=/Generic/Geometry/src/LUMatrixDeterminant.inline.h
+Geometry/src/LUMatrixInverse.inline.h=/Generic/Geometry/src/LUMatrixInverse.inline.h
