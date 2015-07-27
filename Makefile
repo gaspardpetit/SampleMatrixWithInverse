@@ -1,2 +1,5 @@
-#Name of the executable to create
 EXECUTABLE = test
+INCLUDE += libs
+
+include build/make/Makefile
+

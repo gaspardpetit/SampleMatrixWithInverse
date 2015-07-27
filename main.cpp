@@ -1,6 +1,8 @@
-#include "Geometry/Matrix.h"
-#include "Geometry/LUMatrixInverse.h"
-#include "Geometry/LUMatrixDeterminant.h"
+#include <Enseed/Geometry/Matrix.h>
+#include <Enseed/Geometry/LUMatrixInverse.h>
+#include <Enseed/Geometry/LUMatrixDeterminant.h>
+
+using namespace seed;
 
 template<typename MATRIX>
 void Test(const MATRIX &matrix)

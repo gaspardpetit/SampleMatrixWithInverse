@@ -1,3 +1,6 @@
 [submodule "build/make"]
 	path = build/make
 	url = https://github.com/Enseed/make.git
+[submodule "libs/Enseed/Geometry"]
+	path = libs/Enseed/Geometry
+	url = https://github.com/Enseed/GenericGeometry.git
